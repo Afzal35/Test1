@@ -1,0 +1,36 @@
+.main {
+    text-align: center;
+    justify-content: center;
+    display: flex; 
+    padding-top: 70px;
+    padding-bottom: 90px;
+    background-color: rgba(147, 124, 124, 0.459);
+  }
+  .form-group {
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    width: 95%;
+    box-shadow: 17px 18px 19px 18px rgb(207, 207, 207);
+
+    background-color: white;
+  }
+  .form-group-1 {
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    width: 95%;
+    padding-top: 5px;
+    border-radius: 3px; 
+    background-color: white;
+  }
+  .form-group-2 {
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    width: 95%;
+    box-shadow: 17px 18px 19px 18px rgb(207, 207, 207);
+    padding-top: 5px;
+    border-radius: 3px; 
+    background-color: white;
+  }
